@@ -3,7 +3,7 @@
 Sometimes sites try to take away your ability to cut/copy/paste and
 even right click. This attemps to solve that.
 
-I only tested this on Firefox.
+**I only tested this on Firefox.**
 
 ## Installation
 
