@@ -8,7 +8,9 @@ I only tested this on Firefox.
 ## Installation
 
 * Create a new bookmark in your browser
-* Add contents of [giveBackControlBookmark.js](giveBackControlBookmark.js) as the bookmark "location"
+* Add contents of [giveBackControlBookmark.js][] as the bookmark "location"
+
+[giveBackControlBookmark.js]: https://raw.githubusercontent.com/RyanMillerC/give-back-browser-control/master/giveBackControlBookmark.js
 
 ## Usage
 
